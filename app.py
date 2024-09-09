@@ -4,8 +4,6 @@ import datetime
 import secrets
 import pandas as pd
 
-load_dotenv()
-
 st.set_page_config(
     page_title="Bookin",
     page_icon="icon.png",
