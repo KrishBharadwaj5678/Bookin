@@ -2,8 +2,6 @@ import streamlit as st
 from pymongo import MongoClient
 import datetime
 import secrets
-import os
-from dotenv import load_dotenv
 import pandas as pd
 
 load_dotenv()
@@ -16,7 +14,7 @@ st.set_page_config(
     }
 )
 
-client = MongoClient(os.getenv("mongodb_url"))
+client = MongoClient("mongodb+srv://test:test1234@cluster0.h6ocrk9.mongodb.net/")
 db = client["Hotel_Management"]
 booking=db["booking"]
 
