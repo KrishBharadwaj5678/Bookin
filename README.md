@@ -72,5 +72,3 @@ We love contributions from the community!
    git push origin feature/your-feature-name
    ```
 5. 📬 **Open a Pull Request**
-
----
