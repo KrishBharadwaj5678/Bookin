@@ -2,8 +2,6 @@
 
 **Bookin** is a powerful and intuitive admin dashboard built with **Streamlit** and **MongoDB** that empowers hotel administrators to seamlessly manage bookings with ease. Whether you're running a boutique inn or a large hotel chain, Bookin simplifies booking operations—**add, edit, view, and remove reservations** in just a few clicks.
 
-![Bookin Dashboard Screenshot](https://your-screenshot-url.com) <!-- Replace with actual screenshot URL -->
-
 ---
 
 ## ✨ Features
@@ -33,7 +31,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bookin.git
+git clone https://github.com/KrishBharadwaj5678/Bookin.git
 cd bookin
 ```
 
