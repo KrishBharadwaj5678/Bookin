@@ -71,6 +71,6 @@ We love contributions from the community!
    ```bash
    git push origin feature/your-feature-name
    ```
-5. 📬 **Open a Pull Request** – we’ll review and get back to you ASAP!
+5. 📬 **Open a Pull Request**
 
 ---
