@@ -1,6 +1,6 @@
 # 🏨 Bookin – Hotel Booking Admin Dashboard
 
-**Bookin** is a powerful and intuitive admin dashboard built with **Streamlit** and **MongoDB** that empowers hotel administrators to seamlessly manage bookings with ease. Whether you're running a boutique inn or a large hotel chain, Bookin simplifies booking operations—**add, edit, view, and remove reservations** in just a few clicks.
+**Bookin** is a powerful and intuitive admin dashboard built with **Streamlit** and **MongoDB** that empowers hotel administrators to seamlessly manage bookings with ease.
 
 ---
 
@@ -32,7 +32,7 @@
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/Bookin.git
-cd bookin
+cd Bookin
 ```
 
 ### 2. Install Dependencies
@@ -41,12 +41,7 @@ cd bookin
 pip install -r requirements.txt
 ```
 
-### 3. Set Up MongoDB
-
-* Make sure MongoDB is running locally or use a cloud database (e.g., MongoDB Atlas).
-* Update the MongoDB connection URI in `config.py` or wherever defined.
-
-### 4. Run the App
+### 3. Run the App
 
 ```bash
 streamlit run app.py
