@@ -59,7 +59,7 @@ Sure! Here's your contribution guide with emojis added for a more engaging and f
 
 ## 🤝 Contributing
 
-We love contributions from the community! Whether you’re fixing bugs 🐛, improving documentation 📝, or suggesting new features 💡—every bit helps make **Bookin** better.
+We love contributions from the community!
 
 ### 🧩 How to Contribute
 
