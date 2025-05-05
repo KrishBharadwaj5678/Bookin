@@ -49,14 +49,6 @@ streamlit run app.py
 
 ---
 
-Sure! Here's an improved **Contributing** section that’s more inviting, clear, and professional, following common open-source best practices:
-
----
-
-Sure! Here's your contribution guide with emojis added for a more engaging and friendly tone:
-
----
-
 ## 🤝 Contributing
 
 We love contributions from the community!
