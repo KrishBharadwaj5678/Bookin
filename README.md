@@ -2,27 +2,31 @@
 
 **Bookin** is a powerful and intuitive admin dashboard built with **Streamlit** and **MongoDB** that empowers hotel administrators to seamlessly manage bookings with ease.
 
+![Bookin](https://github.com/KrishBharadwaj5678/Bookin/raw/main/BookinDemo.png)
+
 ---
 
 ## ✨ Features
 
-* ✅ **Add New Bookings** with guest details and room preferences
-* 📝 **Edit Existing Bookings** quickly and efficiently
-* 👀 **View All Bookings** in an organized way
-* ❌ **Delete Bookings** when needed
-* 📊 **Real-Time Database** connection using MongoDB
-* 🚀 **Streamlit-Powered UI** – lightweight, interactive, and responsive
+| 🌟 Feature                    | 💬 Description                                         |
+| ----------------------------- | ------------------------------------------------------ |
+| ✅ **Add New Bookings**        | Add guest details and room preferences easily          |
+| 📝 **Edit Existing Bookings** | Modify booking details quickly and efficiently         |
+| 👀 **View All Bookings**      | Display all bookings in an organized and clean layout  |
+| ❌ **Delete Bookings**         | Remove bookings when no longer needed                  |
+| 📊 **Real-Time Database**     | Connected with MongoDB for live data updates           |
+| 🚀 **Streamlit-Powered UI**   | Lightweight, interactive, and responsive web interface |
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tool      | Purpose                        |
-| --------- | ------------------------------ |
-| Streamlit | Frontend framework |
-| MongoDB   | NoSQL database for bookings    |
-| Python    | Backend logic                  |
-| PyMongo   | MongoDB-Python connectivity    |
+| 🧰 Tool          | 💡 Purpose                                                |
+| ---------------- | --------------------------------------------------------- |
+| 🚀 **Streamlit** | Frontend framework for building the dashboard             |
+| 🍃 **MongoDB**   | NoSQL database for storing and managing bookings          |
+| 🐍 **Python**    | Backend logic and application control                     |
+| 🔗 **PyMongo**   | Connects Python with MongoDB for seamless data operations |
 
 ---
 
