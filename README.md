@@ -1,6 +1,6 @@
-# 🏨 Bookin – Hotel Booking Admin Dashboard
+# 🏨 Bookin – Hotel Booking Admin Panel
 
-**Bookin** is a powerful and intuitive admin dashboard built with **Streamlit** and **MongoDB** that empowers hotel administrators to seamlessly manage bookings with ease.
+**Bookin** is a powerful and intuitive admin panel built with **Streamlit** and **MongoDB** that empowers hotel administrators to seamlessly manage bookings with ease.
 
 ![Bookin](https://github.com/KrishBharadwaj5678/Bookin/raw/main/BookinDemo.png)
 
@@ -23,7 +23,7 @@
 
 | 🧰 Tool          | 💡 Purpose                                                |
 | ---------------- | --------------------------------------------------------- |
-| 🚀 **Streamlit** | Frontend framework for building the dashboard             |
+| 🚀 **Streamlit** | Frontend framework for building the UI                    |
 | 🍃 **MongoDB**   | NoSQL database for storing and managing bookings          |
 | 🐍 **Python**    | Backend logic and application control                     |
 | 🔗 **PyMongo**   | Connects Python with MongoDB for seamless data operations |
