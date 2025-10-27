@@ -3,6 +3,11 @@ from pymongo import MongoClient
 import datetime
 import secrets
 import pandas as pd
+from dotenv import load_dotenv
+import os
+
+# Load variables from .env
+load_dotenv()
 
 st.set_page_config(
     page_title="Bookin",
@@ -12,7 +17,8 @@ st.set_page_config(
     }
 )
 
-client = MongoClient("mongodb+srv://test:test1234@cluster0.h6ocrk9.mongodb.net/")
+mongo_uri = os.getenv("MONGO_URI")
+client = MongoClient(mongo_uri)
 db = client["Hotel_Management"]
 booking=db["booking"]
 
