@@ -4,11 +4,9 @@
 
 ![Bookin](https://github.com/KrishBharadwaj5678/Bookin/raw/main/BookinDemo.png)
 
----
-
 ## ✨ Features
 
-| 🌟 Feature                    | 💬 Description                                         |
+| Feature                    |  Description                                         |
 | ----------------------------- | ------------------------------------------------------ |
 | ✅ **Add New Bookings**        | Add guest details and room preferences easily          |
 | 📝 **Edit Existing Bookings** | Modify booking details quickly and efficiently         |
@@ -21,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-| 🧰 Tool          | 💡 Purpose                                                |
+|    Tool          |  Purpose                                                |
 | ---------------- | --------------------------------------------------------- |
 | 🚀 **Streamlit** | Frontend framework for building the UI                    |
 | 🍃 **MongoDB**   | NoSQL database for storing and managing bookings          |
@@ -32,47 +30,34 @@
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/Bookin.git
+```
+
+### 2️⃣ Navigate to the Project Directory
+
+```bash
 cd Bookin
 ```
 
-### 2. Install Dependencies
+### 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the App
+### 4️⃣ Create a `.env` File
+
+Create a `.env` file in the project root directory and add your MongoDB connection string:
+
+```env
+MONGO_URI=your_mongodb_connection_string
+```
+
+### 5️⃣ Run the App
 
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 🤝 Contributing
-
-We love contributions from the community!
-
-### 🧩 How to Contribute
-
-1. 🍴 **Fork** the repository
-2. 🌿 **Create** a new branch:
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. 💾 **Commit** your changes:
-
-   ```bash
-   git commit -m 'Add your message here'
-   ```
-4. 🚀 **Push** to your fork:
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. 📬 **Open a Pull Request**
